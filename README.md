@@ -60,3 +60,6 @@ Data is saved automatically in your browser, so a page refresh will not clear yo
 This project is intended for educational use. 
 
 # Calorie-Counter
+
+<img width="1240" height="580" alt="image" src="https://github.com/user-attachments/assets/69f76321-6af2-4958-b165-4945226adeba" />
+
