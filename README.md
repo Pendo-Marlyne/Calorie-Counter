@@ -24,7 +24,8 @@ A small, modern calorie tracking web app built with **HTML5**, **Tailwind CSS**,
 
 ## Getting Started
 
-1. 
+1. Click on 
+https://pendo-marlyne.github.io/Calorie-Counter/
 2. Open `index.html` in your browser (double-click or drag into the browser).
 3. Start adding food items using the form.
 
